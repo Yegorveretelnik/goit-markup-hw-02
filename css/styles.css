@@ -80,8 +80,8 @@ body {
       }
 
       
-.list1:hover,
-.list1:focus
+.listone:hover,
+.listtwo:focus
   {
     color:#404BBF;
 }
