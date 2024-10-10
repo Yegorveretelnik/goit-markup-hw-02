@@ -52,8 +52,14 @@ body {
     letter-spacing: 0.02em;
     color: #F4F4FD;
 }
+
+
 .studio {
     color: #2e2f42;
+}
+
+.studio1 {
+    color: #f4f4fd;
 }
 
 .section1, .button {
