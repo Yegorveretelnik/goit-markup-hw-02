@@ -32,11 +32,13 @@ body {
     color: #434455;
 }
 
-.header {
+.solutions {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
+    color: #FFFFFF
+
 }
 
 .header2 {
@@ -44,9 +46,11 @@ body {
     line-height: 1.1111111111
 }
 
-.header3 {
+.sectiontwo-list {
     font-size: 20px;
-    line-height: 1.2
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42
 }
 
 .footerp {
@@ -64,19 +68,15 @@ body {
     color: #f4f4fd;
 }
 
-.section1, .button {
-    color: #FFFFFF;;
+.sectionone {
+    color: #FFFFFF;
 }
 
-.header3, .button {
+.sectiontwo-list, .button {
     font-weight: 500;
 }
 
-.link {
-    text-decoration: none;
-    color: #2E2F42
 
-}
 .footer, .span1 {
     color: #F4F4FD
 }
@@ -89,7 +89,8 @@ body {
             background-color: #4D5AE5;
             cursor:pointer;
             line-height: 1.5;
-            letter-spacing: 0.04em
+            letter-spacing: 0.04em;
+            color: #FFFFFF
         
       }
 
