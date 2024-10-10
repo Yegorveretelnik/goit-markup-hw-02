@@ -30,9 +30,6 @@ body {
     color: #434455
 }
 
-.footer {
-    color: #F4F4FD
-}
 
 .web {
     color: #4D5AE5;
@@ -51,7 +48,9 @@ body {
     color: #2E2F42
 
 }
-
+.footer {
+    color: #F4F4FD
+}
 .section1, .footer {
         background-color: #2E2F42;;
        
