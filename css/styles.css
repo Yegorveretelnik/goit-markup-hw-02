@@ -81,13 +81,13 @@ body {
 
       
 .listone:hover,
-.listtwo:focus
+.listone:focus
   {
     color:#404BBF;
 }
 
-.list2:hover,
-.list2:focus {
+.listtwo:hover,
+.listtwo:focus {
     color: #404BBF;
 }
 
