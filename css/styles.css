@@ -51,7 +51,7 @@ body {
 
 }
 
-.sectiontwo-li- {
+.sectiontwo-list {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -82,7 +82,7 @@ body {
 }
 
 .sectionthree {
-    color: #F4F4FD;
+    background-color: #F4F4FD;
 }
 
 .sectiontwo-list, .button {
