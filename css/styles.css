@@ -1,6 +1,5 @@
 body {
-    font-family: "Roboto", 'Verdana',
-        sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
     line-height: 1.5
@@ -18,7 +17,7 @@ body {
 }
 
 
-.list1 {
+.listone {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -26,7 +25,7 @@ body {
     color: #2E2F42;
 }
 
-.list2 {
+.listtwo {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
